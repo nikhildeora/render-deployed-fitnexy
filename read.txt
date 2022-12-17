@@ -1,0 +1,11 @@
+links for renders deployed json file
+
+main link 
+https://render-deployed-fitnexy.onrender.com/
+
+child links
+https://render-deployed-fitnexy.onrender.com/schedule
+
+https://render-deployed-fitnexy.onrender.com/userprofile
+
+https://render-deployed-fitnexy.onrender.com/profile
