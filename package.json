@@ -1,0 +1,23 @@
+{
+  "name": "renderdeployedfitnexyjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhildeora/render-deployed-fitnexy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhildeora/render-deployed-fitnexy/issues"
+  },
+  "homepage": "https://github.com/nikhildeora/render-deployed-fitnexy#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
